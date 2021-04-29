@@ -11,6 +11,15 @@ hpecli is a project to create a unified Command Line Interface (CLI) for various
 
 ## Getting Started / Installing
 
+```bash
+# installing from the source
+ sudo apt install golang-go
+ git clone https://github.com/HewlettPackard/hpecli
+ ./build.sh
+ # you will now see the hpe command
+```
+
+
 Simply download a binary that is appropriate for your OS, and then run it for help on possible commands.
 
 ```
